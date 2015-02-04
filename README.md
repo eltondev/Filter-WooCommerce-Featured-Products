@@ -1,2 +1,2 @@
 # Filter-WooCommerce-Featured-Products
-Filtrar produtos Woocommerce entre destaque e não .
+Filtrar woocoomerce produtos destacados e não destacados.
