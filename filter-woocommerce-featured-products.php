@@ -2,7 +2,7 @@
 /*
 Plugin Name: Filter WooCommerce Featured Products
 Plugin URI: http://eltondev.com.br
-Description: Filter woocoomerce featured products and non-featured
+Description: Filtrar woocoomerce produtos destacados e não destacados
 Version: 1.0
 Author: EltonDEV
 Author URI: http://eltondev.com.br
