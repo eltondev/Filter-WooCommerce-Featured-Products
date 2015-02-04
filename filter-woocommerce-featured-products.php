@@ -50,9 +50,10 @@ function featured_product_search_filter_manager(){
     }
 }
 add_filter( 'parse_query', 'woocommerce_filter_posts_filter' );
+
 /**
  *
- *submeter filtro por post meta
+ *submeter filtro 
  * 
  * @author EltonDEV
  * @param  (wp_query object) $query
